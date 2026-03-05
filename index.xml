@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FedKDD 2025</title><link>https://fedkdd.github.io/fedkdd2025/</link><description>Recent content on FedKDD 2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fedkdd.github.io/fedkdd2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Terms &amp; Conditions</title><link>https://fedkdd.github.io/fedkdd2025/terms-and-conditions/</link><pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/terms-and-conditions/</guid><description>&lt;h3 id="1-definitions">1. Definitions&lt;/h3>
+&lt;p>We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term &amp;ldquo;personal data&amp;rdquo; does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.&lt;/p></description></item><item><title>Accepted Papers</title><link>https://fedkdd.github.io/fedkdd2025/papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/papers/</guid><description>&lt;h2 id="oral">Oral&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://openreview.net/forum?id=oWhPxPMB8z">Federated Learning with Graph-Based Aggregation for Traffic Forecasting&lt;/a>. Renata Dividino, Glaucio H.S. de Carvalho, Audri Banik&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=3jcksADQeZ">FedRandom: Sampling Consistent and Accurate Contribution Values in Federated Learning&lt;/a>. Arno Geimer, Beltran Fiz, Radu State&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=ULsapzJA4W">Federated Submodular Maximization: Improved Communication Rounds and Bit Complexity&lt;/a>. Sreeharsh Namani, Neophytos Charalambides, Akbar Rafiey&lt;/li>
+&lt;/ol>
+&lt;h2 id="poster">Poster&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://openreview.net/forum?id=Ihufn6MptW">Class-Granular Attacks and Robust Defense in Federated Learning&lt;/a>. Md Faisal Ahmed, Zhuangdi Zhu, Zhengdao Wang&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=3xPOgysKOp">Hierarchical Federated Unlearning for Large Language Models&lt;/a>. Yisheng Zhong, Zhengbang Yang, Zhuangdi Zhu&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=Y2bDnfFu7w">Mitigating Persistent Client Dropout in Asynchronous Decentralized Federated Learning&lt;/a>. Ignacy Stępka, Nicholas Gisolfi, Kacper Trębacz, Artur Dubrawski&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=7VXSBtyOJy">FedMABench: Benchmarking Mobile GUI Agents on Decentralized Heterogeneous User Data&lt;/a>. WenHao Wang, Zijie Yu, Rui Ye, Jianqing Zhang, Guangyi Liu, Liang Liu, Siheng Chen, Yanfeng Wang&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=Y3IMv3geqM">FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing&lt;/a>. Haodong Zhao, Peng Peng, Chiyu Chen, Linqing Huang, Gongshen Liu&lt;/li>
+&lt;li>&lt;a href="https://openreview.net/forum?id=2g43k6ObEO">Privacy-Enhancing Paradigms for Federated Multi-Agent Systems&lt;/a>. Zitong Shi, Guancheng Wan, Wenke Huang, Guibin Zhang, Jiawei Shao, Mang Ye, Carl Yang&lt;/li>
+&lt;/ol></description></item><item><title>Call for Submissions</title><link>https://fedkdd.github.io/fedkdd2025/calls/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/calls/</guid><description>&lt;h2 id="workshop-scope">Workshop Scope&lt;/h2>
+&lt;p>The workshop will address both foundational and cutting-edge challenges in FL, integrating graph analytics with emerging trends like LLMs and generative AI. Unlike prior workshops (e.g., FedGraph@ICDM 2023 or FedKDD@KDD 2024), which centered on graph-structured data, this year&amp;rsquo;s focus expands to interdisciplinary synergies—from privacy-preserving LLM fine-tuning and multi-agent collaborative systems (e.g., autonomous vehicles) to FL-driven scientific workflows in climate modeling or biomedical research. We encourage submissions covering novel application domains, such as decentralized content generation and AI art platforms, while addressing systemic challenges like data heterogeneity, trust gaps, and scalability constraints.&lt;/p></description></item><item><title>Contact</title><link>https://fedkdd.github.io/fedkdd2025/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/contact/</guid><description/></item><item><title>Keynotes</title><link>https://fedkdd.github.io/fedkdd2025/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/speakers/</guid><description/></item><item><title>Organizers</title><link>https://fedkdd.github.io/fedkdd2025/organizers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/organizers/</guid><description>&lt;h2 id="workshop-committees">Workshop Committees&lt;/h2>
+&lt;ul>
+&lt;li>Junyuan Hong, Michigan State University&lt;/li>
+&lt;/ul></description></item><item><title>Panelist</title><link>https://fedkdd.github.io/fedkdd2025/panel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/panel/</guid><description/></item><item><title>Schedules</title><link>https://fedkdd.github.io/fedkdd2025/schedules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedkdd.github.io/fedkdd2025/schedules/</guid><description>&lt;div class="row justify-content-center">
+&lt;h3>Workshop Schedule (August 4,Toronto time )&lt;/h3>
+&lt;table class="table table-striped">
+ &lt;tr> &lt;!-- row 1 -->
+ &lt;td>&lt;h3>Time&lt;/h3>&lt;/td>
+ &lt;td>&lt;h3>Event&lt;/h3>&lt;/td>
+ &lt;td>&lt;h3>Details&lt;/h3>&lt;/td>
+ &lt;!-- &lt;td>&lt;a href="https://github.com" target="_blank">Event&lt;/a>&lt;/td> -->
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8:00 am - 8:10 am&lt;/td>
+ &lt;td>Opening &amp; Introduction&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8:10 am - 8:50 am&lt;/td>
+ &lt;td>Keynote Talk 1: Gauri Joshi&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8:50 am - 9:30 am&lt;/td>
+ &lt;td>Keynote Talk 2: Giulia Fanti&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>9:30 am - 10:00 am&lt;/td>
+ &lt;td>Award &amp; Oral Presentation&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10:00 am - 10:30 am&lt;/td>
+ &lt;td>Coffee Break &amp; Poster Presentation&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10:30 am - 11:10 am&lt;/td>
+ &lt;td>Keynote Talk 3: Fei Wang&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>11:10 am - 11:50 am&lt;/td>
+ &lt;td>Keynote Talk 4: Ermin Wei&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>11:50 am - 12:00 pm&lt;/td>
+ &lt;td>Closing &amp; Acknowledgement&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+&lt;/table>
+&lt;/div></description></item></channel></rss>
